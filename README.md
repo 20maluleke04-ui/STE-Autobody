@@ -36,6 +36,10 @@ Finalised the wireframe design using a consistent black-and-white low-fidelity s
 
 ##### REFERANCE
 file:///Users/musamaluleke/Downloads/steautobody (2)/steautobody/contact.html
+World Wide Web Consortium (W3C). (2023). HTML5 & CSS Level 3 Specification Standards. W3C Recommendation.
+STE Autobody Internal Project Documentation. (2026). Contact Page Requirements & Business Operations Specifications (contact.html).   
+JPG
+Interaction Design Foundation. (2024). Principles of Responsive Web Design and User Lead Generation.
 
 
 
